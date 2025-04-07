@@ -1,0 +1,6 @@
+selenium
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+faiss-cpu
